@@ -3,7 +3,7 @@
 //  Swift Fun
 //
 //  Created by Anisha John on 9/25/17
-//  Copyright © 2017 Anisha John. All rights reserved.
+//  Copyright © 2017 Anisha John. All rights reserved..
 //
 
 import UIKit
@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBAction func buttonTapped(_ sender: Any) {
         buttonCount = buttonCount + 1
         
-        print (buttonCount)
+        
         
         if buttonCount >= 10 {
             
